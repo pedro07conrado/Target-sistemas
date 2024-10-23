@@ -31,7 +31,7 @@ This repository contains solutions to various technical challenges provided by `
 > 
 Follow these steps to clone and run the project:
 
-1. **Clone the repository**:
+1. ## Clone the repository
    ```bash
    git clone <repository_url>
    ```
@@ -39,3 +39,10 @@ Follow these steps to clone and run the project:
    ```bash
    cd Target-sistemas
    ```
+   **Navigate to the specific challenge directory (for example, Challenge 1):**
+   ```bash
+   cd Desafio1
+   ```
+   ## Compile the Java file
+    ```bash
+   javac FibonacciCheck.java
