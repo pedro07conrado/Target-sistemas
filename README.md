@@ -46,3 +46,9 @@ Follow these steps to clone and run the project:
    ## Compile the Java file
     ```bash
    javac FibonacciCheck.java
+    ```
+    ## Run the application
+    ```bash
+    java FibonacciCheck
+   ```
+   
