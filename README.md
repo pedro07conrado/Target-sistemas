@@ -14,6 +14,21 @@ This repository contains solutions to various technical challenges provided by `
 - `java`
 
 ##  Usage Instructions
+
+> [!IMPORTANT]
+> Before running the project, ensure you have *Java* installed on your machine. 
+> 
+> ### For Linux Users:
+> To install Java on Ubuntu or Debian, run:
+> bash
+> sudo apt update
+> sudo apt install default-jdk
+> 
+> 
+> ### For Windows Users:
+> Download and install the latest version of *Java Development Kit (JDK)* from the [official Oracle website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html). 
+> After installation, make sure to set the JAVA_HOME environment variable and update the PATH variable.
+> 
 Follow these steps to clone and run the project:
 
 1. **Clone the repository**:
