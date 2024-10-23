@@ -4,11 +4,11 @@
 This repository contains solutions to various technical challenges provided by `Target Systems`. Each challenge is implemented in **Java**, showcasing my problem-solving skills and programming proficiency.
 
 ## 🎯 Challenge Objectives
-**Challenge 1**: Check if a number belongs to the Fibonacci sequence.
-**Challenge 2**: Count occurrences of the letter **'a'** (both uppercase and lowercase) in a given string.
-**Challenge 3**: Calculate the sum of integers from **1** to a specified index.
-**Challenge 4**: Complete the given numeric sequences.
-**Challenge 5**: Identify which switch controls which light bulb using logical reasoning.
+- **Challenge 1**: Check if a number belongs to the Fibonacci sequence.
+- **Challenge 2**: Count occurrences of the letter **'a'** (both uppercase and lowercase) in a given string.
+- **Challenge 3**: Calculate the sum of integers from **1** to a specified index.
+- **Challenge 4**: Complete the given numeric sequences.
+- **Challenge 5**: Identify which switch controls which light bulb using logical reasoning.
 
 ## 🛠️ Technologies Used
 - `java`
