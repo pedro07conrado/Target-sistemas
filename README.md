@@ -1,7 +1,7 @@
 #  Target Systems Challenges
 
 ## 📜 Description
-This repository contains solutions to various technical challenges provided by **Target Systems**. Each challenge is implemented in **Java**, showcasing my problem-solving skills and programming proficiency.
+This repository contains solutions to various technical challenges provided by `Target Systems`. Each challenge is implemented in **Java**, showcasing my problem-solving skills and programming proficiency.
 
 ## 🎯 Challenge Objectives
 1. **Challenge 1**: Check if a number belongs to the Fibonacci sequence.
