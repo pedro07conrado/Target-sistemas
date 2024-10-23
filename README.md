@@ -11,7 +11,7 @@ This repository contains solutions to various technical challenges provided by *
 5. **Challenge 5**: Identify which switch controls which light bulb using logical reasoning.
 
 ## 🛠️ Technologies Used
-- **Programming Language**: Java
+- `java`
 
 ##  Usage Instructions
 Follow these steps to clone and run the project:
