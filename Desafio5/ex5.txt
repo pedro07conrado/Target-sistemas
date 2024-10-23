@@ -1,0 +1,22 @@
+Primeira Visita:
+
+Ligue um interruptor qualquer e aguarde alguns minutos. A lâmpada correspondente a esse interruptor começará a aquecer.
+Desligue o interruptor que você ligou e ligue outro
+Vá para a sala com as lâmpadas
+
+Segunda Visita:
+
+Identificação da lâmpada:
+Lâmpada acesa: O interruptor que você ligou na segunda visita controla esta lâmpada.
+Lâmpada apagada e quente: O interruptor que você ligou e desligou na primeira visita controla esta lâmpada.
+Lâmpada apagada e fria: O interruptor que você não mexeu controla esta lâmpada.
+
+--------------//--------
+EXPLICAÇÃO: 
+Lâmpada acesa: E óbvio que o interruptor que você acabou de ligar controla a lâmpada acesa.
+Lâmpada apagada e quente: Essa lâmpada foi ligada na primeira visita e teve tempo de aquecer. Portanto, o interruptor ligado na primeira visita a controla.
+Lâmpada apagada e fria: Essa lâmpada nunca foi ligada, então o interruptor que você não mexeu a controla.
+
+vale salientar que a lâmpada leva um tempo para esfriar após ser desligada e 
+Ao comparar o estado das lâmpadas (acesa, apagada e quente ou fria),
+podemos deduzir qual interruptor controla cada uma.
