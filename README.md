@@ -20,10 +20,12 @@ This repository contains solutions to various technical challenges provided by `
 > 
 > ### For Linux Users:
 > To install Java on Ubuntu or Debian, run:
-> bash
+>``` bash
 > sudo apt update
+>```
+>``` bash
 > sudo apt install default-jdk
-> 
+> ```
 > 
 > ### For Windows Users:
 > Download and install the latest version of *Java Development Kit (JDK)* from the [official Oracle website](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html). 
